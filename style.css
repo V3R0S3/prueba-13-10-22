@@ -2,7 +2,6 @@
     margin: 5px;
     padding: 0px;
     background-color: #eeeee6;
-
 }
 
 ul {
@@ -25,6 +24,7 @@ ul {
 }
 
 .container {
+    background-color: #eeeee6;
     display: flex;
     flex: 2;
     justify-content: space-around;
@@ -66,6 +66,7 @@ ul {
 .hy{
 background-color: white;
 
+
 }
 .ola{
     background-color: white;
@@ -74,4 +75,10 @@ background-color: white;
 .bye{
     background-color: white;
     color: rgb(0, 135, 153);
+}
+.uno{
+color:rgb(0, 135, 153);
+}
+.dos{
+    color:rgb(0, 135, 153);
 }
